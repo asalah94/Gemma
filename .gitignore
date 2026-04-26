@@ -1,0 +1,26 @@
+env.list
+__pycache__
+**/__pycache__
+frontend/node_modules
+frontend/build
+.git
+force_push*.sh
+test_*.sh
+*_git.sh
+
+# Local environments
+.venv/
+myenv/
+venv/
+
+# Secrets and local config
+.env
+
+# Python artifacts
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# IDE
+.vscode/

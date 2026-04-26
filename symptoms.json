@@ -1,0 +1,57 @@
+{
+    "Flu": [
+        "I have a fever, feeling hot and cold.",
+        "I have a cough.",
+        "My throat is sore.",
+        "My nose is running or blocked.",
+        "My muscles ache all over.",
+        "I have a headache.",
+        "I feel very tired.",
+        "I might possibly be throwing up or have diarrhea."
+    ],
+    "Migraine": [
+        "I have a really bad headache, usually on one side of my head, and it's throbbing or pulsing.",
+        "The headache gets worse when I move around.",
+        "Bright lights really bother my eyes.",
+        "Loud noises really bother my ears.",
+        "Strong smells make me feel worse.",
+        "I feel sick to my stomach, and I might even throw up.",
+        "I feel really tired and worn out.",
+        "I might possibly see flashing lights, zigzags, or blind spots before the headache starts.",
+        "I might possibly have numbness or tingling on one side of my body or face.",
+        "I might possibly have trouble speaking or finding the right words.",
+        "I might possibly feel confused or disoriented.",
+        "I might possibly feel stiff in my neck."
+    ],
+    "Malaria": [
+        "I have a high fever.",
+        "I have chills and shivering.",
+        "I have a headache.",
+        "I have muscle aches.",
+        "I feel very tired and weak.",
+        "I might have nausea or vomiting.",
+        "I might have diarrhea or abdominal pain.",
+        "I might have rapid breathing or a rapid heart rate.",
+        "I might have a cough.",
+        "My skin or eyes might appear yellow (jaundice).",
+        "I might have confusion or impaired consciousness.",
+        "I might have seizures.",
+        "I recently returned from a safari trip in Tanzania with mosquito bites."
+    ],
+    "Serotonin Syndrome": [
+        "I feel agitated or restless.",
+        "I have confusion or disorientation.",
+        "My pupils are dilated.",
+        "I have a rapid heart rate and high blood pressure.",
+        "I'm sweating a lot or shivering.",
+        "I have tremors or muscle twitching.",
+        "My muscles feel rigid or stiff.",
+        "I have overactive reflexes (hyperreflexia).",
+        "I might have diarrhea.",
+        "I might have a headache.",
+        "I might experience spontaneous or inducible rhythmic muscle spasms (clonus).",
+        "My body temperature might be high.",
+        "I might have abnormal eye movements.",
+        "I was coughing a lot and took some cough syrup. (Only if asked it was dextromethorphan)"
+    ]
+}
